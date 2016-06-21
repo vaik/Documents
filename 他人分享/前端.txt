@@ -1,0 +1,48 @@
+成熟
+稳定
+社区活跃
+开发效率高
+简单易用
+
+适合自己
+
+
+angularjs
+更新跨度大
+手机上的渲染速度比不上reactjs
+官方自己没有使用
+学习难度大，入门需要（2个）
+
+
+
+vue 包括ie8
+avalon
+
+
+ReactJS(ES6+redux+webpack+bootstrap+reactRoute+babel)
+优点：
+1、
+
+
+jquery+bootstrap+vue+adminlte jtable?
+jquery-easyui
+jquery ui
+
+
+
+bootstrap(UI)
+
+官网：bootstrap,jquery  
+APP POS:
+供应商：
+rom: extjs,1.42M，5.0有移动版，是否收费？资料少
+入门时间比较长（5天）
+对现有组件修改比较难入手
+精通
+API文档简单，扩展性比较差，开发遇到一个简单的问题需要花很长时间，所有的控件都是封装好的，只有运行才能看见。
+extjs浏览器兼容性问题不好（火狐、IE 兼容不理想）
+出了很多问题不好解决（）
+换肤快
+感觉实际开发并没有比其它框架快。
+
+
